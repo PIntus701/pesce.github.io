@@ -1,0 +1,29 @@
+.roba{
+
+    width: 50%;
+    height: 60px;
+
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    margin-top: -20px;
+    margin-left: -25%;
+
+    font-size: 20px;
+
+    border-radius: 14px;
+    border: 0;
+    background-color:white;
+    transition: 0.4s;
+    
+
+}
+
+.roba:hover{
+
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    transition: 0.4s;
+
+}
